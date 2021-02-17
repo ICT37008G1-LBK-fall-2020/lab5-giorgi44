@@ -1,4 +1,4 @@
-
+// L504 დაწერეთ სკრიპტი რომელიც გამოიტანს ყველა ტელეფონის მოდელს ელემენტიდან phone-container
 
 let phones = document.getElementById('phone-container');
 let phoneModels = phones.getElementsByClassName('model');

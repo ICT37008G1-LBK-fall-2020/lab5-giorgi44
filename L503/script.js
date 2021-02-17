@@ -1,4 +1,6 @@
-// 
+// L503 დაწერეთ კოდი რომელიც ცხრილის უჯრებს დიაგონალის მმიხედვით გააწითლებს,
+// გამოიყენეთ შემდეგი კოდი:
+// td.style.backgroundColor = 'red';
 
 let table = document.getElementById('table');
 
